@@ -1,0 +1,22 @@
+{
+  "wheel_id": 425,
+  "structure": "umbrella",
+  "slug": "retainingwallsnewcastle-com-150",
+  "project": "retaining-walls-newcastle-ce36213f4e3fe895b2ff8be9180da05a434bd",
+  "parent_t1_ref": "retainingwallsnewcastle.com-003",
+  "node_role": "buffer",
+  "money_target": "retainingwallsnewcastle.com.au",
+  "primary_kw": "retaining walls newcastle",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-newcastle-ce36213f4e3fe895b2ff8be9180da05a434bd/",
+  "tier": "T2",
+  "writeback_nonce": "57cc5e914a2ee887",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/retainingwallsnewcastle.com-003/retaining-walls-newcastle.html",
+      "anchor": "retaining walls newcastle explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
